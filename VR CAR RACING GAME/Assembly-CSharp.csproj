@@ -60,6 +60,8 @@
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.16.0\Hello Cardboard\Scripts\CardboardStartup.cs" />
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.16.0\Hello Cardboard\Scripts\ObjectController.cs" />
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.16.0\Hello Cardboard\Scripts\VrModeController.cs" />
+    <Compile Include="Assets\script\CarController.cs" />
+    <Compile Include="Assets\script\NewBehaviourScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\BEDRILL\Modular_Track_Free\Readme.txt" />
